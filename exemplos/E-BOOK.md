@@ -15,4 +15,4 @@ O e-book apresenta um conteúdo para inspirirar a organização e alcançar seus
 
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência inovadora.
+Criar este e-book foi uma experiência inovadora e que permitiu utilizar o conhecimento adquirido no bootcamp.
