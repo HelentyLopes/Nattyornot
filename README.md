@@ -1,10 +1,10 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? A utilização de IAs Generativas na rotina
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, podemos utilizar o aprendizado das IAs para administrar melhor a rotina de forma geral.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
