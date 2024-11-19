@@ -1,10 +1,10 @@
-# Natural ou Fake Natty? A utilização de IAs Generativas na rotina
+# Natural ou Fake Natty? A utilização de IAs Generativas para roteiro de viagem
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, podemos utilizar o aprendizado das IAs para administrar melhor a rotina de forma geral.
+Olá pessoal, pensando na melhor forma de aproveitar aquela viagem planeja, podemos utilizar os recursos das IAs para montar o melhor roteiro e curti cada momento.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
